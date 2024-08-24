@@ -1,0 +1,14 @@
+c:\Users\Administrator\Documents\GitHub\HomeWork_18_08_2024_WithProgramMain\bin\Debug\net8.0\HomeWork_18_08_2024_WithProgramMain.exe
+C:\Users\Administrator\Documents\GitHub\HomeWork_18_08_2024_WithProgramMain\bin\Debug\net8.0\HomeWork_18_08_2024_WithProgramMain.deps.json
+C:\Users\Administrator\Documents\GitHub\HomeWork_18_08_2024_WithProgramMain\bin\Debug\net8.0\HomeWork_18_08_2024_WithProgramMain.runtimeconfig.json
+c:\Users\Administrator\Documents\GitHub\HomeWork_18_08_2024_WithProgramMain\bin\Debug\net8.0\HomeWork_18_08_2024_WithProgramMain.dll
+c:\Users\Administrator\Documents\GitHub\HomeWork_18_08_2024_WithProgramMain\bin\Debug\net8.0\HomeWork_18_08_2024_WithProgramMain.pdb
+c:\Users\Administrator\Documents\GitHub\HomeWork_18_08_2024_WithProgramMain\obj\Debug\net8.0\HomeWork_18_08_2024_WithProgramMain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Administrator\Documents\GitHub\HomeWork_18_08_2024_WithProgramMain\obj\Debug\net8.0\HomeWork_18_08_2024_WithProgramMain.AssemblyInfoInputs.cache
+c:\Users\Administrator\Documents\GitHub\HomeWork_18_08_2024_WithProgramMain\obj\Debug\net8.0\HomeWork_18_08_2024_WithProgramMain.AssemblyInfo.cs
+c:\Users\Administrator\Documents\GitHub\HomeWork_18_08_2024_WithProgramMain\obj\Debug\net8.0\HomeWork_18_08_2024_WithProgramMain.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Documents\GitHub\HomeWork_18_08_2024_WithProgramMain\obj\Debug\net8.0\HomeWork_18_08_2024_WithProgramMain.dll
+c:\Users\Administrator\Documents\GitHub\HomeWork_18_08_2024_WithProgramMain\obj\Debug\net8.0\refint\HomeWork_18_08_2024_WithProgramMain.dll
+c:\Users\Administrator\Documents\GitHub\HomeWork_18_08_2024_WithProgramMain\obj\Debug\net8.0\HomeWork_18_08_2024_WithProgramMain.pdb
+C:\Users\Administrator\Documents\GitHub\HomeWork_18_08_2024_WithProgramMain\obj\Debug\net8.0\HomeWork_18_08_2024_WithProgramMain.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\HomeWork_18_08_2024_WithProgramMain\obj\Debug\net8.0\ref\HomeWork_18_08_2024_WithProgramMain.dll
